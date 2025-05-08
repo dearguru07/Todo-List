@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin-left: 5px;
+}
+li {
+  width: 400px;
+  justify-content: center;
+  margin: 5px auto;
+}
+input {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.strike {
+  text-decoration: line-through;
+}
